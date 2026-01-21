@@ -65,7 +65,7 @@ The project produces:
 
 ## How to Run
 
-1. Clone the repository:
+Clone the repository:
 ```bash
 git clone https://github.com/nafissa-create/DSA-Study-of-CO2-Emission-in-Africa-.git
 cd DSA-Study-of-CO2-Emission-in-Africa-
